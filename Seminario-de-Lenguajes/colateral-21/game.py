@@ -2,7 +2,7 @@
 # Proyecto de Videojuego en Pygame
 # ————————————INTEGRANTES————————————
 # Cruz, Denis Liam          —
-# Fernandez, Nahuel         —
+# Fernandez, Nahuel         — 35.992.999
 # Guevara, Agustín Ezequiel — 43.507.859
 # Luoni, Brian Ezequiel     — 43.389.976
 # Moro, Enzo Sebastián      —
